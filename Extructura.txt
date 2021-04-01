@@ -1,0 +1,22 @@
+Extructura del archivo .json
+
+Tipo de vehiculo | x | y | z  -> Posicion respecto al origen(camara)| u | v | w -> Orientacion (parte delantera del objeto)
+
+
+-----------
+
+
+
+import bpy
+file_loc = 'C:\\Users\\MyComp\\Documents\\3Dobjects\\obj\\humans\\human_figure_JOINED.obj'
+imported_object = bpy.ops.import_scene.obj(filepath=file_loc)
+obj_object = bpy.context.selected_objects[0] ####<--Fix
+print('Imported name: ', obj_object.name)
+
+
+
+-----------
+
+obj_object.location[0] = ...
+obj_object.location[1] = ...
+obj_object.location[2] = ...

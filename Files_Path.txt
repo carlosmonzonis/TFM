@@ -1,0 +1,5 @@
+D:\OneDrive\Estudios\Master\TFMA\Remplaciamiento\Car\lexus_hs.obj
+D:\OneDrive\Estudios\Master\TFMA\Remplaciamiento\Pedestrian\Pedestrian.obj
+D:\OneDrive\Estudios\Master\TFMA\Remplaciamiento\Cyclist\Cyclist.obj
+D:\OneDrive\Estudios\Master\TFMA\Remplaciamiento\Van\Van_Delivery.obj
+D:\OneDrive\Estudios\Master\TFMA\Remplaciamiento\Truck\Isuzu.obj
